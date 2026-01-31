@@ -1,6 +1,4 @@
-# Verist
-
-Verist is a deterministic workflow kernel for production AI systems. It lets you:
+**Verist** is a deterministic workflow kernel for production AI systems. It lets you:
 
 - replay any past AI output exactly
 - recompute with new models or prompts
